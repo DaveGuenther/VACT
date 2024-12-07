@@ -1,4 +1,4 @@
-can you take the slider components out of this shiny app   output$barplot <- renderPlot({
+output$barplot <- renderPlot({
   # Start with the base dataset
   data <- adae
   
